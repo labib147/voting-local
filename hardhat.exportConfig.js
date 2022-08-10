@@ -1,3 +1,4 @@
+```
 module.exports = {
   defaultNetwork: "rinkeby",
   networks: {
@@ -27,3 +28,4 @@ module.exports = {
     timeout: 40000
   }
 }
+```
