@@ -5,6 +5,7 @@ Migrate to chai: https://hardhat.org/hardhat-chai-matchers/docs/migrate-from-waf
 `npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers`
 
 Hidden `vi ~/.zshrc`
+Show `source ~/.zshrc`
 
 
 Commands to run
