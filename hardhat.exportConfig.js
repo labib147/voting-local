@@ -1,3 +1,4 @@
+Hardhat configuration docs: https://hardhat.org/hardhat-runner/docs/config#networks-configuration
 ```
 module.exports = {
   defaultNetwork: "rinkeby",
