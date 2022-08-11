@@ -9,9 +9,10 @@ Show `source ~/.zshrc`
 
 
 Commands to run
-1. `npx hardhat node`
-2. `npx hardhat run scripts/deploy.js --network localhost`
-3. `npm start`
+1.  `npx hardhat compile`
+2.  `npx hardhat node`
+3. `npx hardhat run scripts/deploy.js --network localhost`
+4. `npm start`
 
 Task: Verify the contract
 
