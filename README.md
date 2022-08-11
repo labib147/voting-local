@@ -14,3 +14,5 @@ Commands to run
 3. `npm start`
 
 Task: Verify the contract
+
+Install OpenZeppelin : `npm install --save @openzeppelin/contracts`
